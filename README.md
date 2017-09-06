@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
 
-This is a test message from Andrey
+'commit
+Delete some. This is a test message from Andrey
 and here is my commit
